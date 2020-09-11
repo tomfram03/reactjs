@@ -10,6 +10,7 @@ function App() {
         <p>
           <h1> Primeiro Commit ReactJS</h1>
           <p>Teste de Commit</p>
+          <p>Um commit pra teste</p>
         </p>
         <a
           className="App-link"
