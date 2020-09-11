@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h1> Primeiro Commit ReactJS</h1>
+          <p>Teste de Commit</p>
         </p>
         <a
           className="App-link"
